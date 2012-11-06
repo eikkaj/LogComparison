@@ -1,0 +1,8 @@
+Jackie Aldama @2012
+
+Visual Basic code to  do some things with logs.
+
+Compare.vbs will check today and yesterday's logs for differences and email them out.
+Date formatting may vary depending on what is creating the log file.
+
+new and old.vbs copy log to a new text file for comparison later on.
